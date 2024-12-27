@@ -1,7 +1,7 @@
 # ESP32_Hugging_LED_Bears
-### TCP Communication
+### TCP OR UDP Communication
 
-This project involves two ESP32s communicating over TCP. Each bear contains an ESP32, a temperature sensor, and LEDs. When one bear is hugged (i.e., body heat is detected), the other bear's LEDs light up in response. This is achieved using TCP communication between the ESP32s.
+This project involves two ESP32s communicating over the internet. Each bear contains an ESP32, a temperature sensor, and LEDs. When one bear is hugged (i.e., body heat is detected), the other bear's LEDs light up in response. This is achieved using TCP communication between the ESP32s.
 
 ## Components Required:
 - 2x ESP32
